@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity  {
         });
     }
 
-
+    //este metodo es para hacer la demostracion de la validacion de inicio de sección en la App
     public void ingresar(View v){
         String user = etUser.getText().toString();
         String pass = etPassword.getText().toString();
