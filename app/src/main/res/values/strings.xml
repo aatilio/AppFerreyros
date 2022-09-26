@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ferreyros</string>
+
+    <string name="btn_loguin"> Iniciar secion</string>
+
+    <string name="hint_codigo">Codigo | Modelo</string>
+    <string name="hint_nombre">Nombre | Descripcion </string>
+    <string name="hint_capacidad">Capacidad | Potencia </string>
+    <string name="hint_peso">Peso de operacion </string>
+    <string name="tex_boton_guardar">Guardar Maquinaria</string>
+
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_nuevoRegistro">¿No tienene una cuenta?</string>
+</resources>
